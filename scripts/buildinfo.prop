@@ -88,6 +88,7 @@ ro.hwui.text_small_cache_width=1024
 ro.hwui.text_small_cache_height=1024
 ro.hwui.text_large_cache_width=2048
 ro.hwui.text_large_cache_height=1024
+qemu.hw.mainkeys=1
 dalvik.vm.heapstartsize=16m
 dalvik.vm.heapgrowthlimit=192m
 dalvik.vm.heapsize=512m
